@@ -17,3 +17,4 @@ AWS Identity and Access Management (IAM) is a web service that helps you securel
 -	Sent out daily e-mail notifications regarding changes using **Amazon SNS**.
 
 #### Visual Representation of Cloud Infrastructure
+![image](https://user-images.githubusercontent.com/70673892/202306665-5eff1177-bbf4-4e94-b1c3-1666c6184984.png)
